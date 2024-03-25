@@ -1,1 +1,1 @@
-This repo contains files which are answers to ALXSE Low Level Programming Tasks
+This repo contains files that serve as solution to ALXSE tasks
